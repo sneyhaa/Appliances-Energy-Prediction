@@ -8,9 +8,10 @@ The project followed a comprehensive data modeling lifecycle, covering preproces
 
 Variable Introduction and Definitions:
 
-Appliances: Energy use in Wh
-Lights: Energy use of light fixtures in the house in Wh
-Temperature and Humidity variables for different rooms and outdoor areas.
+**Appliances**: Energy use in Wh
+**Lights**: Energy use of light fixtures in the house in Wh
+**Temperature and Humidity** variables for different rooms and outdoor areas.
+
 Approach and Conclusion:
 
-The approach involved rigorous analysis, model selection, and comparison. Beginning with Exploratory Data Analysis (EDA), the project addressed missing data, degenerate predictors, skewness, and outliers. After data cleaning, various regression models, both linear and non-linear, were trained and evaluated. Principal Component Regression and Logistic Regression emerged as the top-performing models, achieving RMSE values of 0.138 and 0.166, and R-squared values of 0.658 and 0.1, respectively. The README provides insights into feature engineering and a clear framework for predictive modeling.
+The approach involved rigorous analysis, model selection, and comparison. Beginning with Exploratory Data Analysis (EDA), the project addressed missing data, degenerate predictors, skewness, and outliers. After data cleaning, various regression models, both linear and non-linear, were trained and evaluated. Principal Component Regression and Logistic Regression emerged as the top-performing models, achieving RMSE values of 0.138 and 0.166, and R-squared values of 0.658 and 0.1, respectively. 
